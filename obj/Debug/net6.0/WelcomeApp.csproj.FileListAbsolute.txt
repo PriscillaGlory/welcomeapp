@@ -1,0 +1,14 @@
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+C:\Users\priscilla glory\Desktop\web\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
